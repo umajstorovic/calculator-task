@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/calculator
+    username: myuser
+    password: secret
+
+  jpa:
+    show-sql: true
+
